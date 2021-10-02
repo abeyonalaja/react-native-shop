@@ -5,6 +5,7 @@ import Colors from "../constants/Colors";
 import ProductsOverviewSreen from "../screens/shop/ProductsOverviewScreen";
 import ProductDetailScreen from "../screens/shop/ProductDetailScreen";
 import CartScreen from "../screens/shop/CartScreen";
+import OrdersScreen from "../screens/shop/OrdersScreen";
 
 const ProductsNavigator = createStackNavigator(
   {
